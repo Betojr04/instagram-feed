@@ -1,0 +1,46 @@
+html, body {
+    background-color: lightgray;
+    margin: 0;
+}
+header {
+    background-color: white;
+    padding-top: 0.5px;
+    padding-bottom: 5px;
+}
+.heading {
+    text-align: center;
+}
+.post1 {
+    background-color: white;
+    width: 620px;
+    height: 575px;
+    margin: auto;
+    margin-top: 60px;
+}
+div.container{
+    /* margin-top: 4%; */
+}
+.post-header, .date {
+    display: inline-flex;
+    padding: 20px;
+}
+.date {
+    float: right;
+}
+img {
+    width: 620px;
+    margin: 0;
+    padding: 0;
+}
+.post-footer {
+    height: 50px;
+    width: 620px;
+    background-color: white;
+}
+.post-header {
+    height: 35px;
+}
+.text-footer {
+    padding: 19px;
+    margin: 0px;
+}
