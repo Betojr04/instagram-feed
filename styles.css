@@ -1,5 +1,5 @@
 html, body {
-    background-color: lightgray;
+    background-color: antiquewhite;
     margin: 0;
 }
 header {
@@ -17,9 +17,9 @@ header {
     margin: auto;
     margin-top: 60px;
 }
-div.container{
-    /* margin-top: 4%; */
-}
+/* div.container{
+    margin-top: 4%;
+} */
 .post-header, .date {
     display: inline-flex;
     padding: 20px;
